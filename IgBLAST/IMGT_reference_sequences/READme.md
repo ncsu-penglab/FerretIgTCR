@@ -1,4 +1,4 @@
-# IMGT/Gene-db 
+# IMGT/Gene-DB  
 The reference fasta files contain germline variable and constant gene segment sequences for dog, cat, and horse.
 ## For each species do the following:
 1) Obtain **in-frame** germline allele sequences. This includes all V, D, J, and C alleles
