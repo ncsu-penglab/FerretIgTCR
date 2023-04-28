@@ -3,8 +3,8 @@ The reference fasta files contain germiline sequences for variable and constant 
 ## `For each species do the following:`
 1) Obtain **in-frame** germline allele sequences. This includes all V, D, J, and C alleles
    ```
-   A) Keep functionality and molecular component to `any`
-   B) Save `.fasta` file
+   A) Keep functionality and molecular component to **any**
+   B) Save **.fasta** file
    ```
 2) Obtain V gene allele annotations
    ```
