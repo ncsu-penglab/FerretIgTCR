@@ -1,8 +1,7 @@
 #/opt/R/4.1.0/bin/R
 
 ###########################################################################################################
-#	@author Evan Walsh
-#	@file /peng_1/peng_lab/scripts/Ferret_germline_anno/search/1_search.R
+#	Contact Dr. Peng (xpeng5@ncsu.edu)
 #	
 #	Objective: use most-up-to-date variable region reference to search for more variable region genes 
 #		1) use most-up-to-date variable region reference to mask previously annotated positions within the genome  (create new fa refernce file)
