@@ -11,7 +11,7 @@ The IgBLAST folder contains the IgBLAST database files used for the ferret const
 and joining region annotations.
 
 ### IMGT_reference_sequences subfolder
-IMGT Ig/TCR constant, variable, diversity, and joining germline sequences from ferret, dog, cat, and horse 
+Combined IMGT Ig/TCR constant, variable, diversity, and joining germline sequences from ferret, dog, cat, and horse 
 used to construct the IgBLAST database are stored as fasta files.
 
 ## scripts folder
