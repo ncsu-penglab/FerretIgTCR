@@ -16,4 +16,4 @@ used to construct the IgBLAST database are stored as fasta files.
 
 ## scripts folder
 Custom Python and R scripts for V gene indentification and filtering are stored as 
-**Vgene_RSS_identification_workflow.py** and **VJ_RSS_filtering.R** respectively.
+**Vgene_RSS_identification_workflow.py** and **1_search.R** respectively.
