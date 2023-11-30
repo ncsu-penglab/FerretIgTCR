@@ -2308,9 +2308,8 @@ JAADYL010000772.1	vdj.gp	start_codon	15659590	15659592	.	+	0	gene_id "TRG4-01"; 
 JAADYL010000772.1	vdj.gp	exon	15659590	15659635	.	+	0	gene_id "TRG4-01"; transcript_id "TRG4-01"; exon_number "1"; exon_id "TRG4-01.1"
 JAADYL010000772.1	vdj.gp	CDS	15659590	15659635	.	+	0	gene_id "TRG4-01"; transcript_id "TRG4-01"; exon_number "1"; exon_id "TRG4-01.1"
 JAADYL010000772.1	vdj.gp	exon	15659896	15660213	.	+	0	gene_id "TRG4-01"; transcript_id "TRG4-01"; exon_number "2"; exon_id "TRG4-01.2"
-JAADYL010000772.1	vdj.gp	J_gene_segment	15382146	15382211	.	+	0	gene_id "TRGJ1"; transcript_id "TRGJ1"; pseudogene "unprocessed"
 JAADYL010000772.1	vdj.gp	CDS	15659896	15660213	.	+	0	gene_id "TRG4-01"; transcript_id "TRG4-01"; exon_number "1"; exon_id "TRG4-01.2"; pseudogene "unprocessed"
-JAADYL010000772.1	vdj.gp	J_gene_segment	15382146	15382211	.	+	0	gene_id "TRGJ1"; transcript_id "TRGJ1";
+JAADYL010000772.1	vdj.gp	J_gene_segment	15382146	15382211	.	+	0	gene_id "TRGJ1"; transcript_id "TRGJ1"; pseudogene "unprocessed"
 JAADYL010000772.1	vdj.gp	exon	15382146	15382211	.	+	0	gene_id "TRGJ1"; transcript_id "TRGJ1"; exon_number "1"; exon_id "TRGJ1.1"
 JAADYL010000772.1	vdj.gp	CDS	15382146	15382211	.	+	0	gene_id "TRGJ1"; transcript_id "TRGJ1"; exon_number "1"; exon_id "TRGJ1.1"
 JAADYL010000772.1	vdj.gp	J_gene_segment	15384578	15384639	.	+	0	gene_id "TRGJ2"; transcript_id "TRGJ2"
