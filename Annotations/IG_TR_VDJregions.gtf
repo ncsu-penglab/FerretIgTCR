@@ -2200,7 +2200,6 @@ JAADYL010000772.1	vdj.gp	start_codon	94795027	94795029	.	+	0	gene_id "TRBV8"; tr
 JAADYL010000772.1	vdj.gp	exon	94795027	94795072	.	+	0	gene_id "TRBV8"; transcript_id "TRBV8"; exon_number "1"; exon_id "TRBV8.1"
 JAADYL010000772.1	vdj.gp	CDS	94795027	94795072	.	+	0	gene_id "TRBV8"; transcript_id "TRBV8"; exon_number "1"; exon_id "TRBV8.1"
 JAADYL010000772.1	vdj.gp	exon	94795204	94795498	.	+	0	gene_id "TRBV8"; transcript_id "TRBV8"; exon_number "2"; exon_id "TRBV8.2"
-JAADYL010000772.1	vdj.gp	D_gene_segment	94946525	94946537	.	+	0	gene_id "TRBD1"; transcript_id "TRBD1";
 JAADYL010000772.1	vdj.gp	CDS	94795204	94795498	.	+	0	gene_id "TRBV8"; transcript_id "TRBV8"; exon_number "2"; exon_id "TRBV8.2"
 JAADYL010000772.1	vdj.gp	D_gene_segment	94946525	94946537	.	+	0	gene_id "TRBD1"; transcript_id "TRBD1";
 JAADYL010000772.1	vdj.gp	exon	94946525	94946537	.	+	0	gene_id "TRBD1"; transcript_id "TRBD1"; exon_number "1"; exon_id "TRBD1.1"
