@@ -62,7 +62,7 @@ JAADYL010000038.1	finalcregs.gp	exon	52829339	52829569	.	-	.	 gene_id "IGHD_IGHM
 JAADYL010000038.1	finalcregs.gp	CDS	52829564	52829569	.	-	0	 gene_id "IGHD_IGHM1"; transcript_id "IGHD_IGHM1_MB"; exon_number "9"; exon_id "IGHD_IGHM1_MB.9"; Parent "IGHD_IGHM1_MB"
 JAADYL010000038.1	finalcregs.gp	stop_codon	52829561	52829563	.	-	0	gene_id "IGHD_IGHM1"; transcript_id "IGHD_IGHM1_MB";
 JAADYL010000038.1	finalcregs.gp	exon	52829865	52830031	.	-	.	 gene_id "IGHD_IGHM1"; transcript_id "IGHD_IGHM1_MB"; exon_number "8"; exon_id "IGHD_IGHM1_MB.8";
-JAADYL010000038.1	finalcregs.gp	CDS	52829865	52830031	.	-	0	 gene_id "IGHD_IGHM1"; transcript_id "IGHD_IGHM1_MB"; exon_number "8"; exon_id "IGHD_IGHM1_MB.8"; Parent "IGHD_IGHM1_MB"
+JAADYL010000038.1	finalcregs.gp	CDS	52829865	52830031	.	-	2	 gene_id "IGHD_IGHM1"; transcript_id "IGHD_IGHM1_MB"; exon_number "8"; exon_id "IGHD_IGHM1_MB.8"; Parent "IGHD_IGHM1_MB"
 JAADYL010000038.1	finalcregs.gp	exon	52833560	52833871	.	-	.	 gene_id "IGHD_IGHM1"; transcript_id "IGHD_IGHM1_MB"; exon_number "7"; exon_id "IGHD_IGHM1_MB.7";
 JAADYL010000038.1	finalcregs.gp	CDS	52833560	52833871	.	-	2	 gene_id "IGHD_IGHM1"; transcript_id "IGHD_IGHM1_MB"; exon_number "7"; exon_id "IGHD_IGHM1_MB.7"; Parent "IGHD_IGHM1_MB"
 JAADYL010000038.1	finalcregs.gp	exon	52834059	52834385	.	-	.	 gene_id "IGHD_IGHM1"; transcript_id "IGHD_IGHM1_MB"; exon_number "6"; exon_id "IGHD_IGHM1_MB.6";
