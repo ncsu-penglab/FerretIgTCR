@@ -101,7 +101,7 @@ JAADYL010000038.1	finalcregs.gp	exon	52732938	52733261	.	-	.	 gene_id "IGHE"; tr
 JAADYL010000038.1	finalcregs.gp	CDS	52732938	52733261	.	-	2	 gene_id "IGHE"; transcript_id "IGHE_MB"; exon_number "2"; exon_id "IGHE_MB.2"; Parent "IGHE_MB"
 JAADYL010000038.1	finalcregs.gp	exon	52733418	52733715	.	-	.	 gene_id "IGHE"; transcript_id "IGHE_MB"; exon_number "1"; exon_id "IGHE_MB.1";
 JAADYL010000038.1	finalcregs.gp	CDS	52733418	52733715	.	-	0	 gene_id "IGHE"; transcript_id "IGHE_MB"; exon_number "1"; exon_id "IGHE_MB.1"; Parent "IGHE_MB"
-JAADYL010000038.1	finalcregs.gp	C_gene_segment	52788418	52790064	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1"; 
+JAADYL010000038.1	finalcregs.gp	C_gene_segment	52788418	52790065	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1"; 
 JAADYL010000038.1	finalcregs.gp	exon	52788418	52788892	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "4"; exon_id "IGHG1-1.4";
 JAADYL010000038.1	finalcregs.gp	CDS	52788567	52788892	.	-	2	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "4"; exon_id "IGHG1-1.4"; Parent "IGHG1-1"
 JAADYL010000038.1	finalcregs.gp	stop_codon	52788564	52788566	.	-	2	gene_id "IGHG1"; transcript_id "IGHG1-1";
@@ -110,9 +110,9 @@ JAADYL010000038.1	finalcregs.gp	microintron	52790010	52790010	.	-	 .	 gene_id "I
 JAADYL010000038.1	finalcregs.gp	CDS	52789004	52789327	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "3"; exon_id "IGHG1-1.3"; Parent "IGHG1-1"
 JAADYL010000038.1	finalcregs.gp	exon	52789441	52789497	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "2"; exon_id "IGHG1-1.2";
 JAADYL010000038.1	finalcregs.gp	CDS	52789441	52789497	.	-	2	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "2"; exon_id "IGHG1-1.2"; Parent "IGHG1-1"
-JAADYL010000038.1	finalcregs.gp	exon	52789773	52790064	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "1"; exon_id "IGHG1-1.1";
-JAADYL010000038.1	finalcregs.gp	CDS	52789773	52790064	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "1"; exon_id "IGHG1-1.1"; Parent "IGHG1-1"
-JAADYL010000038.1	finalcregs.gp	C_gene_segment	52784012	52790064	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB";
+JAADYL010000038.1	finalcregs.gp	exon	52789773	52790065	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "1"; exon_id "IGHG1-1.1";
+JAADYL010000038.1	finalcregs.gp	CDS	52789773	52790065	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-1"; exon_number "1"; exon_id "IGHG1-1.1"; Parent "IGHG1-1"
+JAADYL010000038.1	finalcregs.gp	C_gene_segment	52784012	52790065	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB";
 JAADYL010000038.1	finalcregs.gp	microintron	52790010	52790010	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; note "microintron";
 JAADYL010000038.1	finalcregs.gp	exon	52784012	52785252	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "6"; exon_id "IGHG1-1_MB.6";
 JAADYL010000038.1	finalcregs.gp	CDS	52785172	52785252	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "6"; exon_id "IGHG1-1_MB.6"; Parent "IGHG1-1_MB"
@@ -125,9 +125,9 @@ JAADYL010000038.1	finalcregs.gp	exon	52789004	52789327	.	-	.	 gene_id "IGHG1"; t
 JAADYL010000038.1	finalcregs.gp	CDS	52789004	52789327	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "3"; exon_id "IGHG1-1_MB.3"; Parent "IGHG1-1_MB"
 JAADYL010000038.1	finalcregs.gp	exon	52789441	52789497	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "2"; exon_id "IGHG1-1_MB.2";
 JAADYL010000038.1	finalcregs.gp	CDS	52789441	52789497	.	-	2	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "2"; exon_id "IGHG1-1_MB.2"; Parent "IGHG1-1_MB"
-JAADYL010000038.1	finalcregs.gp	exon	52789773	52790064	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "1"; exon_id "IGHG1-1_MB.1";
-JAADYL010000038.1	finalcregs.gp	CDS	52789773	52790064	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "1"; exon_id "IGHG1-1_MB.1"; Parent "IGHG1-1_MB"
-JAADYL010000038.1	finalcregs.gp	C_gene_segment	52788418	52790064	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-2";
+JAADYL010000038.1	finalcregs.gp	exon	52789773	52790065	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "1"; exon_id "IGHG1-1_MB.1";
+JAADYL010000038.1	finalcregs.gp	CDS	52789773	52790065.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-1_MB"; exon_number "1"; exon_id "IGHG1-1_MB.1"; Parent "IGHG1-1_MB"
+JAADYL010000038.1	finalcregs.gp	C_gene_segment	52788418	52790065	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-2";
 JAADYL010000038.1	finalcregs.gp	microintron	52790010	52790010	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-2"; note "microintron";
 JAADYL010000038.1	finalcregs.gp	exon	52788418	52788495	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "5"; exon_id "IGHG1-2.5";
 JAADYL010000038.1	finalcregs.gp	exon	52788538	52788892	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "4"; exon_id "IGHG1-2.4";
@@ -136,18 +136,18 @@ JAADYL010000038.1	finalcregs.gp	exon	52789004	52789327	.	-	.	 gene_id "IGHG1"; t
 JAADYL010000038.1	finalcregs.gp	CDS	52789004	52789327	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "3"; exon_id "IGHG1-2.3"; Parent "IGHG1-2"
 JAADYL010000038.1	finalcregs.gp	exon	52789441	52789497	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "2"; exon_id "IGHG1-2.2";
 JAADYL010000038.1	finalcregs.gp	CDS	52789441	52789497	.	-	2	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "2"; exon_id "IGHG1-2.2"; Parent "IGHG1-2"
-JAADYL010000038.1	finalcregs.gp	exon	52789773	52790064	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "1"; exon_id "IGHG1-2.1";
-JAADYL010000038.1	finalcregs.gp	CDS	52789773	52790064	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "1"; exon_id "IGHG1-2.1"; Parent "IGHG1-2"
-JAADYL010000038.1	finalcregs.gp	stop_codon	52788564	52788566	.	-	2	 gene_id "IGHG1"; transcript_id "IGHG1-2";
-JAADYL010000038.1	finalcregs.gp	C_gene_segment	52788423	52790064	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-3";
+JAADYL010000038.1	finalcregs.gp	exon	52789773	52790065	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "1"; exon_id "IGHG1-2.1";
+JAADYL010000038.1	finalcregs.gp	CDS	52789773	52790065	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-2"; exon_number "1"; exon_id "IGHG1-2.1"; Parent "IGHG1-2"
+JAADYL010000038.1	finalcregs.gp	stop_codon	52788565	52788566	.	-	2	 gene_id "IGHG1"; transcript_id "IGHG1-2";
+JAADYL010000038.1	finalcregs.gp	C_gene_segment	52788423	52790065	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-3";
 JAADYL010000038.1	finalcregs.gp	microintron	52790010	52790010	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-3"; note "microintron";
 JAADYL010000038.1	finalcregs.gp	exon	52788423	52788892	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-3"; exon_number "3"; exon_id "IGHG1-3.3";
 JAADYL010000038.1	finalcregs.gp	CDS	52788567	52788892	.	-	2	 gene_id "IGHG1"; transcript_id "IGHG1-3"; exon_number "3"; exon_id "IGHG1-3.3"; Parent "IGHG1-3"
 JAADYL010000038.1	finalcregs.gp	stop_codon	52788564	52788566	.	-	2	gene_id "IGHG1"; transcript_id "IGHG1-3";
 JAADYL010000038.1	finalcregs.gp	exon	52789004	52789327	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-3"; exon_number "2"; exon_id "IGHG1-3.2";
 JAADYL010000038.1	finalcregs.gp	CDS	52789004	52789327	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-3"; exon_number "2"; exon_id "IGHG1-3.2"; Parent "IGHG1-3"
-JAADYL010000038.1	finalcregs.gp	exon	52789773	52790064	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-3"; exon_number "1"; exon_id "IGHG1-3.1";
-JAADYL010000038.1	finalcregs.gp	CDS	52789773	52790064	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-3"; exon_number "1"; exon_id "IGHG1-3.1"; Parent "IGHG1-3"
+JAADYL010000038.1	finalcregs.gp	exon	52789773	52790065	.	-	.	 gene_id "IGHG1"; transcript_id "IGHG1-3"; exon_number "1"; exon_id "IGHG1-3.1";
+JAADYL010000038.1	finalcregs.gp	CDS	52789773	52790065	.	-	0	 gene_id "IGHG1"; transcript_id "IGHG1-3"; exon_number "1"; exon_id "IGHG1-3.1"; Parent "IGHG1-3"
 JAADYL010000038.1	finalcregs.gp	C_gene_segment	52747584	52749221	.	-	.	 gene_id "IGHG2"; transcript_id "IGHG2-1"; 
 JAADYL010000038.1	finalcregs.gp	exon	52747584	52748047	.	-	.	 gene_id "IGHG2"; transcript_id "IGHG2-1"; exon_number "4"; exon_id "IGHG2-1.4";
 JAADYL010000038.1	finalcregs.gp	CDS	52747722	52748047	.	-	2	 gene_id "IGHG2"; transcript_id "IGHG2-1"; exon_number "4"; exon_id "IGHG2-1.4"; Parent "IGHG2-4"
