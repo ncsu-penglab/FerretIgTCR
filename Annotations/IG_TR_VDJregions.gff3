@@ -1,6 +1,4 @@
 ##gff-version 3
-##source-version rtracklayer 1.56.1
-##date 2023-12-13
 JAADYL010000038.1	vdj.gp	J_gene_segment	52849417	52849470	.	-	.	ID=IGHJ8;geneID=IGHJ8;
 JAADYL010000038.1	vdj.gp	exon	52849417	52849470	.	-	.	Parent=IGHJ8;exon_number=1
 JAADYL010000038.1	vdj.gp	CDS	52849417	52849470	.	-	0	Parent=IGHJ8;exon_number=1
