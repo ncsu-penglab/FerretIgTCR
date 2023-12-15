@@ -9,7 +9,7 @@
    - Annotations that had low mapping quality and overlapped in alignment with another C region were **excluded** from the GFF3 file.
       -   IGLC1-1: ASM1036757v1, ASM1036756v1, M1713, ASM985921v1
       -   IGLC6-1: ASM985922v1, ASM985923v1
-   - Annotations that had high mapping quality but 1) aligned further away from the locus or 2) another contig suggest potential assembly errors.
+   - Annotations that had high mapping quality but aligned 1) further away from the locus or 2) to another contig suggest potential assembly errors.
       -   TRGC1-1: ASM1036757v1, ASM1036756v1
       -   IGLC2-1: ASM985926v1, ASM985924v1, ASM985923v1, ASM985922v1
       -   IGLC4-1: M1713
