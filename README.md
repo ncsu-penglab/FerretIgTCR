@@ -1,10 +1,7 @@
 # FerretIgTCR
 
 ## Annotations folder
-Annotated ferret Ig/TCR constant, variable, diversity, and joining regions described in Walsh et. al (2023)
-are stored as **IG_TR_Cregions.gff3** and **IG_TR_VDJregions.gff3** respectively.
-Constant regions described in Walsh et. al (2023) were also annotated in the other 10 ferret reference genome
-assemblies and are stored as **IG_TR_10FerretAssemblies.gff3**.
+Ig/TCR constant described in Walsh et. al (2023) annotated on the other 10 ferret genome assemblies are stored as **IG_TR_10FerretAssemblies.gff3**.
 
 ## IgBLAST folder 
 The IgBLAST folder contains the IgBLAST database files used for the ferret constant, variable, diversity,
