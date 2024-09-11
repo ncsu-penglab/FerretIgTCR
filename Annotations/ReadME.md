@@ -5,9 +5,9 @@
 - Quality of previously published draft genome assemblies and allelic variation between animals were not assessed.
 - Annotations that had low mapping quality and overlapped in alignment with another C region were <ins>**excluded**</ins> from the GFF3 file.
    -   IGLC1*01: ASM985912v1, ASM985921v1, ASM985922v1, ASM985923v1, ASM985924v1, ASM1036756v1, ASM985926v1, M1713, ASM1036756v1, ASM1036757v1
-   -   IGLC5*01: ASM985912v1,ASM985917v1,ASM985922v1,ASM985923v1,ASM985924v1,ASM1036756v1,M1713,ASM1036756v1
-   -   IGLC6*01: ASM985921v1,ASM985926v1
+   -   IGLC5*01: ASM985912v1, ASM985917v1, ASM985922v1, ASM985923v1, ASM985924v1, ASM1036756v1, M1713, ASM1036756v1
+   -   IGLC6*01: ASM985921v1, ASM985926v1
 - Annotations that had high mapping quality but aligned to another contig suggest potential assembly errors.
-   -   TRGC1*01: ASM985912v1,ASM985923v1,ASM1036756v1
-   -   TRGC2*01: ASM985923v1,ASM1036756v1
-   -   TRGC3*01: ASM1036756v1,ASM1036757v1
+   -   TRGC1*01: ASM985912v1, ASM985923v1, ASM1036756v1
+   -   TRGC2*01: ASM985923v1, ASM1036756v1
+   -   TRGC3*01: ASM1036756v1, ASM1036757v1
