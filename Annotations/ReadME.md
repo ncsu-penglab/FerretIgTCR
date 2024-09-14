@@ -10,7 +10,7 @@
    - Deleted in draft assemblies **(see IGV folder for more information)**
       -   IGLC5*01: ASM985912v1, ASM985917v1, ASM985922v1, ASM985923v1, ASM985924v1, M1713, ASM1036756v1
    - Gene was collapsed during assembly and/or has low/no CDS support in draft assemblies **(see IGV folder for more information)**
-      - IGLC2*01: ASM985912v1, ASM985921v1, ASM985922v1, ASM985923v1, ASM985924v1, ASM1036756v1, ASM985926v1, M1713, ASM1036756v1, ASM1036757v1
+      - IGLC2*01: ASM985912v1, ASM985921v1, ASM985922v1, ASM985923v1, ASM985924v1, ASM985926v1, M1713, ASM1036756v1, ASM1036757v1
 - Annotations that had high mapping quality but aligned to another contig suggest potential assembly errors.
    - TRGC1*01: ASM985912v1, ASM985923v1, ASM1036756v1
    - TRGC2*01: ASM985923v1, ASM1036756v1
