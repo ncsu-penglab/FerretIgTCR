@@ -11,8 +11,9 @@ Output minimap2 BAM files and the constant gene annotations on the ferret refere
 Alignments show gaps between IGLC1*01 and IGLC2*01 and over IGLC5*01. The gap completely covers the IGLC5*01 gene, supporting its deletion in the draft assemblies. Howevever, draft assemblies cover the IGLC1*01 coding sequence and part of the IGLC2*01 3'UTR. This suggests IGLC genes were potentially collapsed during assembly. Since the draft assemblies cover the IGLC1*01 coding sequence, IGLC1*01 is annotated in this position and IGLC2*01 is deleted.
 
 ### Draft genome assemblies IGL locus genomic sequences aligned to the ferret reference genome
-![alt text](https://github.com/ncsu-penglab/FerretIgTCR/edit/main/Annotations/IGV/DraftAssembliesIGLGenomic2Reference.png)
+![alt text](https://github.com/ncsu-penglab/FerretIgTCR/blob/main/Annotations/IGV/DraftAssembliesIGLGenomic2Reference.png)
+
 
 ### Zoomed in images of draft genome assemblies IGL locus genomic sequences coverage of IGLC1*01 and IGLC2*01
-![alt text](https://github.com/ncsu-penglab/FerretIgTCR/edit/main/Annotations/IGV/IGLC1*01_DraftAssemblies2Reference_91424.png)
-![alt text](https://github.com/ncsu-penglab/FerretIgTCR/edit/main/Annotations/IGV/IGLC2*01_DraftAssemblies2Reference_91424.png)
+![alt text](https://github.com/ncsu-penglab/FerretIgTCR/blob/main/Annotations/IGV/IGLC1*01_DraftAssemblies2Reference_91424.png)
+![alt text](https://github.com/ncsu-penglab/FerretIgTCR/blob/main/Annotations/IGV/IGLC2*01_DraftAssemblies2Reference_91424.png)
