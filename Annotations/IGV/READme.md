@@ -1,7 +1,7 @@
 # IGV folder
 
 ## Purpose:
-The goal is to validate IGL gene annotations on the ferret draft genome assemblies.
+Demonstrate validation of IGL gene annotations on the ferret draft genome assemblies.
 
 ## Methods:
 The IGL locus genomic sequence (flanking regions were added for a total of 50kb) from the draft genome assemblies were aligned to the ferret reference genome using minimap2 (`-ax map-ont`).
